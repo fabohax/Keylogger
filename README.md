@@ -9,8 +9,6 @@ pip install pynput
 
 ```
 
-![github-small](/images/Adsız.png)
-
 ## USAGE
 
 •**Set your own MAIL and PASSWORD on "keylogger.py".**
